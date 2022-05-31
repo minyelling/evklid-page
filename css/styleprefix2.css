@@ -2250,8 +2250,8 @@ color: #333333;
 }
 
 .form {
-  /* position: relative; */
   display: contents;
+  position: absolute;
   top: 50px;
   right: 50px;
   -webkit-box-align: center;
