@@ -3305,7 +3305,7 @@ color: #333333;
   }
 
   .form-textarea {
-    max-width: 100%;
+    width: 100%;
   }
 
   .logo-img {
