@@ -2251,13 +2251,12 @@ color: #333333;
 
 .form {
   display: contents;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
   position: absolute;
   top: 50px;
   right: 50px;
-  
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+      align-items: center;
   padding: 20px;
   border-radius: 10px;
   background-color: lightgray;
